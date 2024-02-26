@@ -55,6 +55,49 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.home .sl{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)), url(./images/bg3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.home .india{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)), url(./images/bg4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.home .italy{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)), url(./images/bg5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.home .uk{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)), url(./images/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.home .us{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)), url(./images/bg6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.home .france{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)), url(./images/bg7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
 .home .content{
     text-align: center;
     padding-top: 200px;
