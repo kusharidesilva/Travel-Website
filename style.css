@@ -95,7 +95,7 @@
 /* Home Section End */
 
 
-/* Section Packages Start */
+/* Section countries Start */
 .main-txt h1{
     text-align: center;
     margin-top: 30px;
@@ -105,41 +105,40 @@
 .main-txt h1 span{
     color: #37ff00;
 }
-.packages .card{
+.countries .card{
     border-radius: 5px;
     border: none;
     box-shadow: rgba(0,0,0,0.1) 0px 4px 12px;
 }
-.packages .card img{
+.countries .card img{
     border-radius: 5px;
 }
-.packages .card .card-body{
+.countries .card .card-body{
     background: transparent;
 }
-.packages .card .card-body h3{
+.countries .card .card-body h3{
     font-size: 25px;
     font-weight: 600;
 }
-.packages .card .card-body p{
+.countries .card .card-body p{
     font-size: 15px;
 }
-.checked{
+/* .checked{
     color: #37ff00;
 }
-.star i{
-    font-size: 15px;
-}
-.packages .card .card-body h6{
+
+.places .card .card-body h6{
     font-size: 20px;
 }
-.packages .card .card-body a{
+.places .card .card-body a{
     padding: 10px;
     text-decoration: none;
     background: #37ff00;
     color: white;
     border-radius: 5px;
-}
-/* Section Packages End */
+} */
+
+/* Section countries End */
 
 
 /* Section Gallary Start */
